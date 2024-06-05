@@ -9,7 +9,8 @@ public enum lang {
     SPANISH("Spanish", "es"),
     GERMAN("German", "de"),
     FRENCH("French","fr"),
-    RUSSIAN("Russian", "ru");
+    RUSSIAN("Russian", "ru"),
+    BRAZILIAN_PORTUGUESE("Brazilian Portuguese","pt_BR");
 
     private final String name;
     private final String code;
